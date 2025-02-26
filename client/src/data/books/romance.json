@@ -1,0 +1,506 @@
+[
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932239_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_0.jpg",
+        "book_name": "Lights Out: An Into Darkness Novel",
+        "author": "Navessa Allen",
+        "price": "$16.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932659_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_2.jpg",
+        "book_name": "Scythe & Sparrow (B&N Exclusive Edition) (Ruinous Love Trilogy #3)",
+        "author": "Brynne Weaver",
+        "price": "$17.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062343949_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_6.jpg",
+        "book_name": "The Tarnished Lady",
+        "author": "Sandra Hill",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638933007_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_7.jpg",
+        "book_name": "Caught Up: Into Darkness Trilogy (B&N Exclusive Edition)",
+        "author": "Navessa Allen",
+        "price": "$19.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780008641580_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_8.jpg",
+        "book_name": "The Cinnamon Bun Book Store (Dream Harbor, Book 2)",
+        "author": "Laurie Gilmore",
+        "price": "$15.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781488052538_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_9.jpg",
+        "book_name": "The Wedding Challenge",
+        "author": "Candace Camp",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062422385_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_10.jpg",
+        "book_name": "Mackenzie's Mountain (Mackenzie Family Saga #1)",
+        "author": "Linda Howard",
+        "price": "$1.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538774199_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_12.jpg",
+        "book_name": "Quicksilver",
+        "author": "Callie Hart",
+        "price": "$18.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217059485_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_13.jpg",
+        "book_name": "We All Live Here: A Novel (Signed B&N Exclusive Edition)",
+        "author": "Jojo Moyes",
+        "price": "$30.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780060829834_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_15.jpg",
+        "book_name": "The Wrong Hostage (St. Kilda Series #1)",
+        "author": "Elizabeth Lowell",
+        "price": "$9.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932468_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_16.jpg",
+        "book_name": "Haunting Adeline",
+        "author": "H. D. Carlton",
+        "price": "$20.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781635575569_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_17.jpg",
+        "book_name": "A Court of Thorns and Roses (A Court of Thorns and Roses Series #1)",
+        "author": "Sarah J. Maas",
+        "price": "$17.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932475_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_18.jpg",
+        "book_name": "Hunting Adeline",
+        "author": "H. D. Carlton",
+        "price": "$20.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593641194_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_19.jpg",
+        "book_name": "First-Time Caller",
+        "author": "B.K. Borison",
+        "price": "$17.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940185576915_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_20.jpg",
+        "book_name": "The Fallen Governess",
+        "author": "Laura A. Barnes",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781728296326_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_21.jpg",
+        "book_name": "A Perfect Story",
+        "author": "Elísabet Benavent",
+        "price": "$16.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638931737_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_22.jpg",
+        "book_name": "Butcher & Blackbird (Ruinous Love Trilogy #1)",
+        "author": "Brynne Weaver",
+        "price": "$18.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538769256_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_23.jpg",
+        "book_name": "Phantasma",
+        "author": "Kaylie Smith",
+        "price": "$18.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538774229_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_25.jpg",
+        "book_name": "Brimstone (Deluxe Limited Edition)",
+        "author": "Callie Hart",
+        "price": "$30.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932512_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_26.jpg",
+        "book_name": "Shallow River",
+        "author": "H. D. Carlton",
+        "price": "$17.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780061080630_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_27.jpg",
+        "book_name": "Morning Comes Softly",
+        "author": "Debbie Macomber",
+        "price": "$8.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781916926257_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_28.jpg",
+        "book_name": "Zodiac Academy 1: The Awakening",
+        "author": "Caroline Peckham",
+        "price": "$20.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781402241376_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_29.jpg",
+        "book_name": "The Winter Sea",
+        "author": "Susanna Kearsley",
+        "price": "$17.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781635575583_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_30.jpg",
+        "book_name": "A Court of Mist and Fury (A Court of Thorns and Roses Series #2)",
+        "author": "Sarah J. Maas",
+        "price": "$19.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940184575070_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_31.jpg",
+        "book_name": "Homecoming: A Downeast Novel",
+        "author": "Marie Force",
+        "price": "$5.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250288790_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_32.jpg",
+        "book_name": "The Seven Rings: The Lost Bride Trilogy, Book 3",
+        "author": "Nora Roberts",
+        "price": "$30.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781916926301_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_33.jpg",
+        "book_name": "Zodiac Academy 3: The Reckoning",
+        "author": "Caroline Peckham",
+        "price": "$20.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781525804809_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_34.jpg",
+        "book_name": "The Last Days of Lilah Goodluck",
+        "author": "Kylie Scott",
+        "price": "$18.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638931799_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_35.jpg",
+        "book_name": "Leather & Lark (Ruinous Love Trilogy #2)",
+        "author": "Brynne Weaver",
+        "price": "$19.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538712665_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_37.jpg",
+        "book_name": "Fat Tuesday",
+        "author": "Sandra Brown",
+        "price": "$14.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781635577990_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_38.jpg",
+        "book_name": "A Court of Silver Flames (A Court of Thorns and Roses Series #4)",
+        "author": "Sarah J. Maas",
+        "price": "$19.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781335474728_p0_v13%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_39.jpg",
+        "book_name": "Blood of Hercules",
+        "author": "Jasmine Mas",
+        "price": "$19.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250343185_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_40.jpg",
+        "book_name": "The Serpent and the Wings of Night",
+        "author": "Carissa Broadbent",
+        "price": "$19.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250126269_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_42.jpg",
+        "book_name": "Night Life",
+        "author": "Caitlin Kittredge",
+        "price": "$22.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781635575606_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_43.jpg",
+        "book_name": "A Court of Wings and Ruin (A Court of Thorns and Roses Series #3)",
+        "author": "Sarah J. Maas",
+        "price": "$19.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593498644_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_44.jpg",
+        "book_name": "Never Say Never: A Novel",
+        "author": "Danielle Steel",
+        "price": "$20.30"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781728274867_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_45.jpg",
+        "book_name": "Twisted Love (Twisted Series #1)",
+        "author": "Ana Huang",
+        "price": "$17.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940184349497_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_48.jpg",
+        "book_name": "Scatter the Bones",
+        "author": "Autumn Jones Lake",
+        "price": "$4.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062448118_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_50.jpg",
+        "book_name": "Lost and Found Sisters: A Novel",
+        "author": "Jill Shalvis",
+        "price": "$16.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940161003329_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_53.jpg",
+        "book_name": "Haven Bay Series Books 1 - 3",
+        "author": "Alexa Rivers",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250288776_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_55.jpg",
+        "book_name": "The Mirror: The Lost Bride Trilogy, Book 2",
+        "author": "Nora Roberts",
+        "price": "$21.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940184368474_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_56.jpg",
+        "book_name": "Jack",
+        "author": "Kathi S. Barton",
+        "price": "$5.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940186050407_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_57.jpg",
+        "book_name": "Collect the Pieces",
+        "author": "Autumn Jones Lake",
+        "price": "$4.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781635575620_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_58.jpg",
+        "book_name": "A Court of Frost and Starlight (A Court of Thorns and Roses Series)",
+        "author": "Sarah J. Maas",
+        "price": "$17.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932499_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_59.jpg",
+        "book_name": "Does It Hurt?",
+        "author": "H. D. Carlton",
+        "price": "$19.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062697240_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_60.jpg",
+        "book_name": "Within Reach: A Novel",
+        "author": "Barbara Delinsky",
+        "price": "$17.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464224423_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_62.jpg",
+        "book_name": "Glint",
+        "author": "Raven Kennedy",
+        "price": "$16.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940184748306_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_63.jpg",
+        "book_name": "Heartless Vows: A Dark Mafia Arranged Marriage Romance",
+        "author": "V.T. Bonds",
+        "price": "$5.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464224454_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_64.jpg",
+        "book_name": "Gold (Plated Prisoner Series #5)",
+        "author": "Raven Kennedy",
+        "price": "$16.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940186075585_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_66.jpg",
+        "book_name": "Playing Mr. Perfect (The Bradens at Ridgeport): Clay Braden",
+        "author": "Melissa Foster",
+        "price": "$5.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464224447_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_67.jpg",
+        "book_name": "Glow",
+        "author": "Raven Kennedy",
+        "price": "$16.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464224430_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_68.jpg",
+        "book_name": "Gleam",
+        "author": "Raven Kennedy",
+        "price": "$16.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593819609_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_69.jpg",
+        "book_name": "Dark Hope",
+        "author": "Christine Feehan",
+        "price": "$29.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062434265_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_70.jpg",
+        "book_name": "The Dark Side of Midnight: The Other Side of Midnight, Rage of Angels, Bloodline",
+        "author": "Sidney Sheldon",
+        "price": "$1.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940186074359_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_71.jpg",
+        "book_name": "Playoff (Phantoms #4)",
+        "author": "Kat Mizera",
+        "price": "$5.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940179193876_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_72.jpg",
+        "book_name": "Blade (The Alpha Elite Series, #11)",
+        "author": "Sybil Bartel",
+        "price": "$5.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538742983_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_73.jpg",
+        "book_name": "Blood Moon",
+        "author": "Sandra Brown",
+        "price": "$21.00"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781460391723_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_75.jpg",
+        "book_name": "The Cozakis Bride",
+        "author": "Lynne Graham",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063310681_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_76.jpg",
+        "book_name": "How to End a Love Story (Reese's Book Club Pick)",
+        "author": "Yulin Kuang",
+        "price": "$18.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940186102236_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_78.jpg",
+        "book_name": "Ryder",
+        "author": "Becca Jameson",
+        "price": "$4.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781614178484_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_80.jpg",
+        "book_name": "Friendly Fire (The Echo Platoon Series, Book 3)",
+        "author": "Marliss Melton",
+        "price": "$17.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781947418554_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_82.jpg",
+        "book_name": "Dead of Winter",
+        "author": "Rebecca Zanetti",
+        "price": "$14.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940184368405_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_83.jpg",
+        "book_name": "Casey's Hero",
+        "author": "Elle James",
+        "price": "$5.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062422262_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_85.jpg",
+        "book_name": "Heartbreaker",
+        "author": "Linda Howard",
+        "price": "$1.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781455574100_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_86.jpg",
+        "book_name": "Hard to Handle",
+        "author": "Jessica Lemmon",
+        "price": "$21.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940185941775_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_89.jpg",
+        "book_name": "The Last Guy on Earth",
+        "author": "Sarina Bowen",
+        "price": "$4.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940185807286_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_92.jpg",
+        "book_name": "Hey, Daddy",
+        "author": "Lani Lynn Vale",
+        "price": "$5.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781497612105_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_94.jpg",
+        "book_name": "Anywhere You Are",
+        "author": "Constance O'Day-Flannery",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781640635333_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_95.jpg",
+        "book_name": "The Last Letter",
+        "author": "Rebecca Yarros",
+        "price": "$15.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940186138204_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_96.jpg",
+        "book_name": "Corrupt Vows: A Dark Mafia Arranged Marriage Romance",
+        "author": "V.T. Bonds",
+        "price": "$5.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940186139768_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_97.jpg",
+        "book_name": "The Prince's Secret Twins",
+        "author": "Eilzabeth Lennox",
+        "price": "$3.99"
+    },
+    {
+        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538728581_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+        "image_path": "books/romance/book_romance_99.jpg",
+        "book_name": "The Return",
+        "author": "Nicholas Sparks",
+        "price": "$16.99"
+    }
+]

@@ -1,0 +1,17 @@
+.home-star-icon {
+    height: 15px;
+    width: auto;
+    margin: 6px 2px 0 2px;
+}
+
+.rating-text {
+    width: auto;
+    height: 20px;
+    font-weight: 500;
+    font-size: 1rem;
+    padding-top: 0;
+    position: relative;
+    margin-left: 3px;
+    color: var(--primary-color-light);
+    top: 4px;
+}

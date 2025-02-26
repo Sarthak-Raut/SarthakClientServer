@@ -1,0 +1,42 @@
+p {
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+}
+
+a {
+    color: white;
+    font-size: 1rem;
+}
+
+.footer {
+    display: grid;
+    width: 100%;
+    height: var(--footer-height);
+    background-color: var(--primary-color);
+    border-top-left-radius: var(--corner-radius);
+    border-top-right-radius: var(--corner-radius);
+    grid-template-columns: 1px 15fr 0.5fr 0.5fr 0.2fr 0.2fr 0.2fr 1px;
+    gap: 1rem;
+    justify-items: center;
+    align-items: center;
+}
+
+.icon {
+    cursor: pointer;
+    pointer-events: none;
+}
+.facebook {
+    width: 21px;
+    height: 21px;
+}
+
+.twitter {
+    width: 24px;
+    height: 24px;
+}
+
+.instagram {
+    width: 28px;
+    height: 28px;
+}

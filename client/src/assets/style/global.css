@@ -1,0 +1,23 @@
+
+:root {
+    --default-font-size: 1.25rem;
+    --default-text-color: #111;
+    --neutral-color: #4e4e4e;
+
+    --primary-color: #885265;
+    --primary-color-light: #a47175;
+    --background-color: #fbf5e6;
+
+    --secondary-color: #edcebc;
+    --shadow-color: #edcebc;
+
+    --corner-radius: 10px;
+
+    --footer-height: 45px;
+    --header-height: 140px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
