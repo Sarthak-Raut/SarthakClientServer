@@ -2,6 +2,12 @@ p {
     color: white;
     font-size: 1rem;
     text-align: center;
+    width: auto;
+}
+
+.center {
+    position: relative;
+    left: 5vw;
 }
 
 a {

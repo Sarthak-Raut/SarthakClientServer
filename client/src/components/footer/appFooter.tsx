@@ -10,7 +10,7 @@ function AppFooter() {
     return(
         <div className="footer">
             <div/>
-            <p>&copy; 2025 StoryBook. All rights reserved.</p>
+            <p className="center">&copy; 2025 StoryBook. All rights reserved.</p>
             <a href="https://www.facebook.com/pg/facebook" target="_blank" rel="noreferrer">Contacts</a>
             <a href="https://www.facebook.com/pg/facebook" target="_blank" rel="noreferrer">Directions</a>
             <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/">
