@@ -6,7 +6,6 @@ export const CATEGORY_TYPE = {
     ROMANCE: "romance",
 } as const;
 
-
 export type CategoryType = typeof CATEGORY_TYPE[keyof typeof CATEGORY_TYPE];
 
 export const VALID_CATEGORIES: Record<string, CategoryType> = {

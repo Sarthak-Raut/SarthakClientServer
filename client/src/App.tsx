@@ -9,22 +9,26 @@ import Home from "./pages/home";
 function App() {
   return (
       <BrowserRouter>
-          <AppHeader/>
-          <Routes>
-              <Route
-                  path="/"
-                  element={<Home />}
-              />
-              <Route
-                  path="/categories"
-                  element={<Category />}
-              />
-              <Route
-                  path="*"
-                  element={<div>Page Not Found</div>}
-              />
-          </Routes>
-          <AppFooter/>
+          <div className="main">
+              <AppHeader/>
+              <div style={{ flex: 1, overflow: "auto" }}>
+                  <Routes>
+                      <Route
+                          path="/"
+                          element={<Home/>}
+                      />
+                      <Route
+                          path="/categories"
+                          element={<Category />}
+                      />
+                      <Route
+                          path="*"
+                          element={<div>Page Not Found</div>}
+                      />
+                  </Routes>
+              </div>
+              <AppFooter/>
+          </div>
       </BrowserRouter>
   );
 }

@@ -39,6 +39,7 @@
 }
 
 .dropdown:hover .dropbtn {
+    cursor: pointer;
     background-color: #FBF5E6;
     color: #885265;
     border-top-left-radius: 12px;

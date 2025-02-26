@@ -30,6 +30,7 @@
     justify-items: center;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
 
 .search-box {
