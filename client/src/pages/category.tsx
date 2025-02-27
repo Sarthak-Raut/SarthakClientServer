@@ -12,7 +12,7 @@ interface Book {
     image_path: string;
     book_name: string;
     author: string;
-    price: string;
+    price: number;
 }
 
 function Category() {
@@ -24,7 +24,7 @@ function Category() {
     const [books, setBooks] = useState<Book[]>([]);
     const [loading, setLoading] = useState(true);
 
-    //Faking the book loading..., i made it so please look at it..
+    //Faking the book loading..., I made it so please look at it..
     const loadBooks = async () => {
         setLoading(true);
         try {
@@ -48,7 +48,7 @@ function Category() {
                     const romance = await import('../data/books/romance.json');
                     const thriller = await import('../data/books/thriller.json');
                     const classic = await import('../data/books/classic.json');
-                    selectedBooks = { default: [...fiction.default, ...romance.default, ...thriller.default, ...classic.default] };
+                    selectedBooks = {  default: [...fiction.default, ...romance.default, ...thriller.default, ...classic.default] };
                     break;
             }
 
@@ -92,10 +92,14 @@ function Category() {
             ) : (
                 <div className="book_grid">
                     {books.map((book, index) => (
-                        <div key={index} className="grid_item">
+                        <div
+                            key={index}
+                            className="grid_item"
+                            style={{ animationDelay: `${index * 0.03}s` }}
+                        >
                             <div className="cat-book-cover">
                                 <img src={`/${book.image_path}`} width="100%" height="100%" alt='book_image'></img>
-                                <p>{book.price}</p>
+                                <p>$ {book.price.toFixed(2)}</p>
                             </div>
                             <p className="home-book-title">{book.book_name}</p>
                             <div className="container-row">

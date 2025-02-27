@@ -17,6 +17,12 @@
     --header-height: 140px;
 }
 
+html, body, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
 p {
     margin: 0;
     padding: 0;
@@ -26,6 +32,5 @@ p {
     background-color: var(--background-color);
     display: flex;
     flex-direction: column;
-    height: auto;
     min-height: 100vh;
 }

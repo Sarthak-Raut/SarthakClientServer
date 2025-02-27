@@ -42,7 +42,7 @@ function AppHeader() {
             </div>
             <div className="cart-icon-container">
                 <CartIcon className="cart-icon"/>
-                <div className="circle">5</div>
+                <div className="circle">99</div>
             </div>
         </div>
     );

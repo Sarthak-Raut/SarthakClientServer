@@ -8,11 +8,11 @@ import Home from "./pages/home";
 
 function App() {
   return (
-      <BrowserRouter>
-          <div className="main">
-              <AppHeader/>
-              <div style={{ flex: 1, overflow: "auto" }}>
-                  <Routes>
+      <div className="flex-container">
+          <BrowserRouter>
+                  <AppHeader/>
+              <div className="fill-me">
+              <Routes>
                       <Route
                           path="/"
                           element={<Home/>}
@@ -28,8 +28,8 @@ function App() {
                   </Routes>
               </div>
               <AppFooter/>
-          </div>
-      </BrowserRouter>
+          </BrowserRouter>
+      </div>
   );
 }
 
