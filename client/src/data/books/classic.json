@@ -1,702 +1,702 @@
-[
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063469068_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_0.jpg",
-        "book_name": "Untitled Memoir (Signed Book)",
-        "author": "Lionel Richie",
-        "price": 36.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780804190114_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_1.jpg",
-        "book_name": "On Tyranny: Twenty Lessons from the Twentieth Century",
-        "author": "Timothy Snyder",
-        "price": 12.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062397348_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_2.jpg",
-        "book_name": "A People's History of the United States",
-        "author": "Howard Zinn",
-        "price": 22.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385480338_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_3.jpg",
-        "book_name": "The Diary of a Young Girl: The Definitive Edition",
-        "author": "Anne Frank",
-        "price": 14.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062087164_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_4.jpg",
-        "book_name": "Red Land, Black Land: Daily Life in Ancient Egypt",
-        "author": "Barbara Mertz",
-        "price": 1.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063392304_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_5.jpg",
-        "book_name": "Seven Things You Can't Say About China",
-        "author": "Tom Cotton",
-        "price": 24.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538741238_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_6.jpg",
-        "book_name": "The Lost Tomb: And Other Real-Life Stories of Bones, Burials, and Murder",
-        "author": "Douglas Preston",
-        "price": 19.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063068803_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_7.jpg",
-        "book_name": "Medgar and Myrlie: Medgar Evers and the Love Story That Awakened America",
-        "author": "Joy-Ann Reid",
-        "price": 16.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062678867_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_8.jpg",
-        "book_name": "No Beast So Fierce: The Terrifying True Story of the Champawat Tiger, the Deadliest Animal in History",
-        "author": "Dane Huckelbridge",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062458360_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_9.jpg",
-        "book_name": "The Lynching: The Epic Courtroom Battle That Brought Down the Klan",
-        "author": "Laurence Leamer",
-        "price": 16.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982114039_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_10.jpg",
-        "book_name": "The Rope: A True Story of Murder, Heroism, and the Dawn of the NAACP",
-        "author": "Alex Tresniowski",
-        "price": 18.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316224512_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_11.jpg",
-        "book_name": "Blood Royal: A True Tale of Crime and Detection in Medieval Paris",
-        "author": "Eric Jager",
-        "price": 39.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780374500016_p0_v9%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_12.jpg",
-        "book_name": "Night",
-        "author": "Elie Wiesel",
-        "price": 13.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250346414_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_13.jpg",
-        "book_name": "Confronting the Presidents: No Spin Assessments from Washington to Biden",
-        "author": "Bill O'Reilly",
-        "price": 24.50
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780525426059_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_14.jpg",
-        "book_name": "Everything Is Tuberculosis (Signed Edition): The History and Persistence of Our Deadliest Infection",
-        "author": "John Green",
-        "price": 28.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781435172340_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_15.jpg",
-        "book_name": "The Constitution of the United States of America and Other Important American Documents",
-        "author": "Various Authors",
-        "price": 15.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593358924_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_16.jpg",
-        "book_name": "Paris Undercover: A Wartime Story of Courage, Friendship, and Betrayal",
-        "author": "Matthew Goodman",
-        "price": 30.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781466868311_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_17.jpg",
-        "book_name": "A Past in Hiding: Memory and Survival in Nazi Germany",
-        "author": "Mark Roseman",
-        "price": 1.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250031327_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_18.jpg",
-        "book_name": "And Then Life Happens: A Memoir",
-        "author": "Auma Obama",
-        "price": 19.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385348744_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_19.jpg",
-        "book_name": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
-        "author": "Erik Larson",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781780288888_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_20.jpg",
-        "book_name": "The Book of Samurai: The Fundamental Teachings",
-        "author": "Antony Cummins",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781480441163_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_21.jpg",
-        "book_name": "Vietnam",
-        "author": "Mary McCarthy",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781400033805_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_22.jpg",
-        "book_name": "The Closing of the Western Mind: The Rise of Faith and the Fall of Reason",
-        "author": "Charles Freeman",
-        "price": 18.95
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385544764_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_23.jpg",
-        "book_name": "The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook",
-        "author": "Hampton Sides",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316384049_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_24.jpg",
-        "book_name": "1924: The Year That Made Hitler",
-        "author": "Peter Ross Range",
-        "price": 21.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780679751526_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_25.jpg",
-        "book_name": "Midnight in the Garden of Good and Evil",
-        "author": "John Berendt",
-        "price": 18.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781639367030_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_26.jpg",
-        "book_name": "Paris 1944: Occupation, Resistance, Liberation: A Social History",
-        "author": "Patrick Bishop",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250790576_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_27.jpg",
-        "book_name": "The JFK Conspiracy: The Secret Plot to Kill Kennedy-and Why It Failed",
-        "author": "Brad Meltzer",
-        "price": 20.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781473831322_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_28.jpg",
-        "book_name": "Broke of the Shannon: And the War of 1812",
-        "author": "Tim Voelcker",
-        "price": 23.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063280847_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_29.jpg",
-        "book_name": "Book and Dagger: How Scholars and Librarians Became the Unlikely Spies of World War II",
-        "author": "Elyse Graham",
-        "price": 30.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316155946_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_30.jpg",
-        "book_name": "Harriet Tubman: The Road to Freedom",
-        "author": "Catherine Clinton",
-        "price": 19.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781400337040_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_31.jpg",
-        "book_name": "Ghosts of Honolulu: A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor",
-        "author": "Mark Harmon",
-        "price": 16.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593320969_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_32.jpg",
-        "book_name": "Patriot: A Memoir",
-        "author": "Alexei Navalny",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593652732_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_33.jpg",
-        "book_name": "Henry V: The Astonishing Triumph of England's Greatest Warrior King",
-        "author": "Dan Jones",
-        "price": 32.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781435139305_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_34.jpg",
-        "book_name": "The Constitution of the United States of America and Selected Writings of the Founding Fathers (Barnes & Noble Collectible Editions)",
-        "author": "Various Authors",
-        "price": 25.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781668056912_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_35.jpg",
-        "book_name": "Erasing History: How Fascists Rewrite the Past to Control the Future",
-        "author": "Jason Stanley",
-        "price": 28.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063030930_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_36.jpg",
-        "book_name": "The Dressmakers of Auschwitz: The True Story of the Women Who Sewed to Survive",
-        "author": "Lucy Adlington",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593541678_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_37.jpg",
-        "book_name": "The Small and the Mighty: Twelve Unsung Americans Who Changed the Course of History, from the Founding to the Civil Rights Movement",
-        "author": "Sharon McMahon",
-        "price": 28.80
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982186180_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_38.jpg",
-        "book_name": "Tasting History: Explore the Past through 4,000 Years of Recipes (A Cookbook)",
-        "author": "Max Miller",
-        "price": 32.50
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593734223_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_39.jpg",
-        "book_name": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
-        "author": "Yuval Noah Harari",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250335647_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_40.jpg",
-        "book_name": "King: A Life",
-        "author": "Jonathan Eig",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940015609394_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_41.jpg",
-        "book_name": "The Runaway Heiress (Seven Saints Hunt Club Series #2)",
-        "author": "Brenda Hiatt",
-        "price": 5.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781400248605_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_42.jpg",
-        "book_name": "Ghosts of Panama: A Strongman Out of Control, A Murdered Marine, and the Special Agents Caught in the Middle of an Invasion",
-        "author": "Mark Harmon",
-        "price": 26.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982176617_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_43.jpg",
-        "book_name": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
-        "author": "Adam Higginbotham",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593299821_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_44.jpg",
-        "book_name": "The Barn: The Secret History of a Murder in Mississippi",
-        "author": "Wright Thompson",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780307279286_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_45.jpg",
-        "book_name": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
-        "author": "Patrick Radden Keefe",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316477543_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_46.jpg",
-        "book_name": "Chaos: Charles Manson, the CIA, and the Secret History of the Sixties",
-        "author": "Tom O'Neill",
-        "price": 24.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316407205_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_47.jpg",
-        "book_name": "American Heroes",
-        "author": "James Patterson",
-        "price": 22.75
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780679763888_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_48.jpg",
-        "book_name": "The Warmth of Other Suns: The Epic Story of America's Great Migration",
-        "author": "Isabel Wilkerson",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593852194_p0_v11%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_49.jpg",
-        "book_name": "Countdown 1960: The Behind-the-Scenes Story of the 312 Days that Changed America's Politics Forever",
-        "author": "Chris Wallace",
-        "price": 24.50
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063230293_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_50.jpg",
-        "book_name": "Lily's Promise: Holding On to Hope Through Auschwitz and Beyond-A Story for All Generations",
-        "author": "Lily Ebert",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593652985_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_51.jpg",
-        "book_name": "Democracy Awakening: Notes on the State of America",
-        "author": "Heather Cox Richardson",
-        "price": 16.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780199971954_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_52.jpg",
-        "book_name": "The Great War and Modern Memory",
-        "author": "Paul Fussell",
-        "price": 22.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217059942_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_53.jpg",
-        "book_name": "Mark Twain (Signed Book)",
-        "author": "Ron Chernow",
-        "price": 45.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780345544827_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_54.jpg",
-        "book_name": "The Perfect Horse: The Daring U.S. Mission to Rescue the Priceless Stallions Kidnapped by the Nazis",
-        "author": "Elizabeth Letts",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781668027813_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_55.jpg",
-        "book_name": "When the Sea Came Alive: An Oral History of D-Day",
-        "author": "Garrett M. Graff",
-        "price": 32.50
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781668024355_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_56.jpg",
-        "book_name": "Targeted: Beirut: The 1983 Marine Barracks Bombing and the Untold Origin Story of the War on Terror",
-        "author": "Jack Carr",
-        "price": 21.69
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780805094213_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_57.jpg",
-        "book_name": "102 Minutes: The Unforgettable Story of the Fight to Survive Inside the Twin Towers",
-        "author": "Jim Dwyer",
-        "price": 25.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780594262107_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_58.jpg",
-        "book_name": "History of the World Map by Map",
-        "author": "DK",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780807018699_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_59.jpg",
-        "book_name": "Man's Search for Meaning (B&N Exclusive Edition)",
-        "author": "Viktor E. Frankl",
-        "price": 17.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780307742490_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_60.jpg",
-        "book_name": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
-        "author": "David Grann",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464216633_p0_v11%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_61.jpg",
-        "book_name": "The Secret History of Bigfoot: Field Notes on a North American Monster",
-        "author": "John O'Connor",
-        "price": 13.49
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250871886_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_62.jpg",
-        "book_name": "Hitler's American Friends: The Third Reich's Supporters in the United States",
-        "author": "Bradley W. Hart",
-        "price": 20.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781451693898_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_63.jpg",
-        "book_name": "Lincoln's Gamble: The Tumultuous Six Months that Gave America the Emancipation Proclamation and Changed the Course of the Civil War",
-        "author": "Todd Brewster",
-        "price": 22.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063420052_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_64.jpg",
-        "book_name": "Black Saturday: An Unfiltered Account of the October 7th Attack on Israel and the War in Gaza",
-        "author": "Trey Yingst",
-        "price": 16.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982108663_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_65.jpg",
-        "book_name": "An Unfinished Love Story: A Personal History of the 1960s",
-        "author": "Doris Kearns Goodwin",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250787651_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_66.jpg",
-        "book_name": "The Hundred Years' War on Palestine: A History of Settler Colonialism and Resistance, 1917-2017",
-        "author": "Rashid Khalidi",
-        "price": 19.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781984880826_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_67.jpg",
-        "book_name": "Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis",
-        "author": "Jonathan Blitzer",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062748218_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_68.jpg",
-        "book_name": "Barracoon: The Story of the Last \"Black Cargo\"",
-        "author": "Zora Neale Hurston",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780143108962_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_69.jpg",
-        "book_name": "The Templars: The Rise and Spectacular Fall of God's Holy Warriors",
-        "author": "Dan Jones",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781635578546_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_70.jpg",
-        "book_name": "Money, Lies, and God: Inside the Movement to Destroy American Democracy",
-        "author": "Katherine Stewart",
-        "price": 29.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781435158696_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_71.jpg",
-        "book_name": "The Art of War (Barnes & Noble Collectible Editions)",
-        "author": "Sun Tzu",
-        "price": 10.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780802163820_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_72.jpg",
-        "book_name": "The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science",
-        "author": "Dava Sobel",
-        "price": 30.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780345376718_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_73.jpg",
-        "book_name": "The Autobiography of Malcolm X",
-        "author": "Malcolm X",
-        "price": 22.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063097698_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_74.jpg",
-        "book_name": "The Happiest Man on Earth: The Beautiful Life of an Auschwitz Survivor",
-        "author": "Eddie Jaku",
-        "price": 18.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780679748403_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_75.jpg",
-        "book_name": "Maus I & II Paperback Box Set",
-        "author": "Art Spiegelman",
-        "price": 28.81
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780525560562_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_76.jpg",
-        "book_name": "Hood Feminism: Notes from the Women That a Movement Forgot",
-        "author": "Mikki Kendall",
-        "price": 16.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982169916_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_77.jpg",
-        "book_name": "The Mysterious Case of Rudolf Diesel: Genius, Power, and Deception on the Eve of World War I",
-        "author": "Douglas Brunt",
-        "price": 16.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780465062881_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_78.jpg",
-        "book_name": "Endurance: Shackleton's Incredible Voyage",
-        "author": "Alfred Lansing",
-        "price": 19.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781504043991_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_79.jpg",
-        "book_name": "Incident at Big Sky: The Inside Story of the Search for Two Savage Killers in Montana",
-        "author": "Johnny France",
-        "price": 0.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780806542706_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_80.jpg",
-        "book_name": "Forged in Hell: The Gripping True Story of the Special Forces Heroes Who Broke the Nazi Stranglehold",
-        "author": "Damien Lewis",
-        "price": 28.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780307742483_p0_v18%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_81.jpg",
-        "book_name": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
-        "author": "David Grann",
-        "price": 17.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063112049_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_82.jpg",
-        "book_name": "By the Fire We Carry: The Generations-Long Fight for Justice on Native Land",
-        "author": "Rebecca Nagle",
-        "price": 32.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250183866_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_83.jpg",
-        "book_name": "Extreme Ownership: How U.S. Navy SEALs Lead and Win (New Edition)",
-        "author": "Jocko Willink",
-        "price": 29.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062869685_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_84.jpg",
-        "book_name": "Alexander at the End of the World: The Forgotten Final Years of Alexander the Great",
-        "author": "Rachel Kousser",
-        "price": 17.50
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063268746_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_85.jpg",
-        "book_name": "White Lies: The Double Life of Walter F. White and America's Darkest Secret",
-        "author": "A. J. Baime",
-        "price": 21.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593476093_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_86.jpg",
-        "book_name": "Nuclear War: A Scenario",
-        "author": "Annie Jacobsen",
-        "price": 30.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316396660_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_87.jpg",
-        "book_name": "The Girl on the Velvet Swing: Sex, Murder, and Madness at the Dawn of the Twentieth Century",
-        "author": "Simon Baatz",
-        "price": 21.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781501154249_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_88.jpg",
-        "book_name": "Washington's End: The Final Years and Forgotten Struggle",
-        "author": "Jonathan Horn",
-        "price": 20.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593230596_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_89.jpg",
-        "book_name": "The 1619 Project: A New Origin Story",
-        "author": "Nikole Hannah-Jones (Created by)",
-        "price": 25.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250037961_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_90.jpg",
-        "book_name": "Final Solution: The Fate of Jews, 1933-1949",
-        "author": "David Cesarani",
-        "price": 1.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593230275_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_91.jpg",
-        "book_name": "Caste: The Origins of Our Discontents",
-        "author": "Isabel Wilkerson",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217086627_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_92.jpg",
-        "book_name": "The Fate of the Day: The War for America, Fort Ticonderoga to Charleston, 1777-1780 (Signed Book)",
-        "author": "Rick Atkinson",
-        "price": 42.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780358439165_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_93.jpg",
-        "book_name": "Black AF History: The Un-Whitewashed Story of America",
-        "author": "Michael Harriot",
-        "price": 32.50
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780345409461_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_94.jpg",
-        "book_name": "The Demon-Haunted World: Science as a Candle in the Dark",
-        "author": "Carl Sagan",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780684848716_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_95.jpg",
-        "book_name": "What Kind of Nation: Thomas Jefferson, John Marshall, and the Epic Struggle to Create a United States",
-        "author": "James F. Simon",
-        "price": 21.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982142995_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_96.jpg",
-        "book_name": "John Lewis: A Life",
-        "author": "David Greenberg",
-        "price": 35.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781501191060_p0_v10%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_97.jpg",
-        "book_name": "Master Slave Husband Wife: An Epic Journey from Slavery to Freedom (Pulitzer Prize Winner)",
-        "author": "Ilyon Woo",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780300276671_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_98.jpg",
-        "book_name": "The Rediscovery of America: Native Peoples and the Unmaking of U.S. History",
-        "author": "Ned Blackhawk",
-        "price": 19.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780312382230_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/classic/book_classic_99.jpg",
-        "book_name": "Desperate Engagement: How a Little-Known Civil War Battle Saved Washington, D.C., and Changed American History",
-        "author": "Marc Leepson",
-        "price": 23.99
-    }
+[{
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063469068_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_0.jpg",
+    "book_name": "Untitled Memoir (Signed Book)",
+    "author": "Lionel Richie",
+    "price": 36.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780804190114_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_1.jpg",
+    "book_name": "On Tyranny: Twenty Lessons from the Twentieth Century",
+    "author": "Timothy Snyder",
+    "price": 12.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062397348_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_2.jpg",
+    "book_name": "A People's History of the United States",
+    "author": "Howard Zinn",
+    "price": 22.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385480338_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_3.jpg",
+    "book_name": "The Diary of a Young Girl: The Definitive Edition",
+    "author": "Anne Frank",
+    "price": 14.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062087164_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_4.jpg",
+    "book_name": "Red Land, Black Land: Daily Life in Ancient Egypt",
+    "author": "Barbara Mertz",
+    "price": 1.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063392304_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_5.jpg",
+    "book_name": "Seven Things You Can't Say About China",
+    "author": "Tom Cotton",
+    "price": 24.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538741238_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_6.jpg",
+    "book_name": "The Lost Tomb: And Other Real-Life Stories of Bones, Burials, and Murder",
+    "author": "Douglas Preston",
+    "price": 19.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063068803_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_7.jpg",
+    "book_name": "Medgar and Myrlie: Medgar Evers and the Love Story That Awakened America",
+    "author": "Joy-Ann Reid",
+    "price": 16.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062678867_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_8.jpg",
+    "book_name": "No Beast So Fierce: The Terrifying True Story of the Champawat Tiger, the Deadliest Animal in History",
+    "author": "Dane Huckelbridge",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062458360_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_9.jpg",
+    "book_name": "The Lynching: The Epic Courtroom Battle That Brought Down the Klan",
+    "author": "Laurence Leamer",
+    "price": 16.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982114039_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_10.jpg",
+    "book_name": "The Rope: A True Story of Murder, Heroism, and the Dawn of the NAACP",
+    "author": "Alex Tresniowski",
+    "price": 18.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316224512_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_11.jpg",
+    "book_name": "Blood Royal: A True Tale of Crime and Detection in Medieval Paris",
+    "author": "Eric Jager",
+    "price": 39.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780374500016_p0_v9%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_12.jpg",
+    "book_name": "Night",
+    "author": "Elie Wiesel",
+    "price": 13.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250346414_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_13.jpg",
+    "book_name": "Confronting the Presidents: No Spin Assessments from Washington to Biden",
+    "author": "Bill O'Reilly",
+    "price": 24.50
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780525426059_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_14.jpg",
+    "book_name": "Everything Is Tuberculosis (Signed Edition): The History and Persistence of Our Deadliest Infection",
+    "author": "John Green",
+    "price": 28.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781435172340_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_15.jpg",
+    "book_name": "The Constitution of the United States of America and Other Important American Documents",
+    "author": "Various Authors",
+    "price": 15.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593358924_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_16.jpg",
+    "book_name": "Paris Undercover: A Wartime Story of Courage, Friendship, and Betrayal",
+    "author": "Matthew Goodman",
+    "price": 30.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781466868311_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_17.jpg",
+    "book_name": "A Past in Hiding: Memory and Survival in Nazi Germany",
+    "author": "Mark Roseman",
+    "price": 1.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250031327_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_18.jpg",
+    "book_name": "And Then Life Happens: A Memoir",
+    "author": "Auma Obama",
+    "price": 19.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385348744_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_19.jpg",
+    "book_name": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
+    "author": "Erik Larson",
+    "price": 35.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781780288888_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_20.jpg",
+    "book_name": "The Book of Samurai: The Fundamental Teachings",
+    "author": "Antony Cummins",
+    "price": 35.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781480441163_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_21.jpg",
+    "book_name": "Vietnam",
+    "author": "Mary McCarthy",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781400033805_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_22.jpg",
+    "book_name": "The Closing of the Western Mind: The Rise of Faith and the Fall of Reason",
+    "author": "Charles Freeman",
+    "price": 18.95
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385544764_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_23.jpg",
+    "book_name": "The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook",
+    "author": "Hampton Sides",
+    "price": 35.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316384049_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_24.jpg",
+    "book_name": "1924: The Year That Made Hitler",
+    "author": "Peter Ross Range",
+    "price": 21.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780679751526_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_25.jpg",
+    "book_name": "Midnight in the Garden of Good and Evil",
+    "author": "John Berendt",
+    "price": 18.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781639367030_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_26.jpg",
+    "book_name": "Paris 1944: Occupation, Resistance, Liberation: A Social History",
+    "author": "Patrick Bishop",
+    "price": 35.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250790576_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_27.jpg",
+    "book_name": "The JFK Conspiracy: The Secret Plot to Kill Kennedy-and Why It Failed",
+    "author": "Brad Meltzer",
+    "price": 20.99
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781473831322_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_28.jpg",
+    "book_name": "Broke of the Shannon: And the War of 1812",
+    "author": "Tim Voelcker",
+    "price": 23.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063280847_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_29.jpg",
+    "book_name": "Book and Dagger: How Scholars and Librarians Became the Unlikely Spies of World War II",
+    "author": "Elyse Graham",
+    "price": 30.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316155946_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_30.jpg",
+    "book_name": "Harriet Tubman: The Road to Freedom",
+    "author": "Catherine Clinton",
+    "price": 19.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781400337040_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_31.jpg",
+    "book_name": "Ghosts of Honolulu: A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor",
+    "author": "Mark Harmon",
+    "price": 16.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593320969_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_32.jpg",
+    "book_name": "Patriot: A Memoir",
+    "author": "Alexei Navalny",
+    "price": 35.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593652732_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_33.jpg",
+    "book_name": "Henry V: The Astonishing Triumph of England's Greatest Warrior King",
+    "author": "Dan Jones",
+    "price": 32.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781435139305_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_34.jpg",
+    "book_name": "The Constitution of the United States of America and Selected Writings of the Founding Fathers (Barnes & Noble Collectible Editions)",
+    "author": "Various Authors",
+    "price": 25.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781668056912_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_35.jpg",
+    "book_name": "Erasing History: How Fascists Rewrite the Past to Control the Future",
+    "author": "Jason Stanley",
+    "price": 28.99
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063030930_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_36.jpg",
+    "book_name": "The Dressmakers of Auschwitz: The True Story of the Women Who Sewed to Survive",
+    "author": "Lucy Adlington",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593541678_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_37.jpg",
+    "book_name": "The Small and the Mighty: Twelve Unsung Americans Who Changed the Course of History, from the Founding to the Civil Rights Movement",
+    "author": "Sharon McMahon",
+    "price": 28.80
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982186180_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_38.jpg",
+    "book_name": "Tasting History: Explore the Past through 4,000 Years of Recipes (A Cookbook)",
+    "author": "Max Miller",
+    "price": 32.50
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593734223_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_39.jpg",
+    "book_name": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+    "author": "Yuval Noah Harari",
+    "price": 35.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250335647_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_40.jpg",
+    "book_name": "King: A Life",
+    "author": "Jonathan Eig",
+    "price": 20.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940015609394_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_41.jpg",
+    "book_name": "The Runaway Heiress (Seven Saints Hunt Club Series #2)",
+    "author": "Brenda Hiatt",
+    "price": 5.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781400248605_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_42.jpg",
+    "book_name": "Ghosts of Panama: A Strongman Out of Control, A Murdered Marine, and the Special Agents Caught in the Middle of an Invasion",
+    "author": "Mark Harmon",
+    "price": 26.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982176617_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_43.jpg",
+    "book_name": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
+    "author": "Adam Higginbotham",
+    "price": 35.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593299821_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_44.jpg",
+    "book_name": "The Barn: The Secret History of a Murder in Mississippi",
+    "author": "Wright Thompson",
+    "price": 35.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780307279286_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_45.jpg",
+    "book_name": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+    "author": "Patrick Radden Keefe",
+    "price": 20.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316477543_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_46.jpg",
+    "book_name": "Chaos: Charles Manson, the CIA, and the Secret History of the Sixties",
+    "author": "Tom O'Neill",
+    "price": 24.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316407205_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_47.jpg",
+    "book_name": "American Heroes",
+    "author": "James Patterson",
+    "price": 22.75
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780679763888_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_48.jpg",
+    "book_name": "The Warmth of Other Suns: The Epic Story of America's Great Migration",
+    "author": "Isabel Wilkerson",
+    "price": 20.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593852194_p0_v11%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_49.jpg",
+    "book_name": "Countdown 1960: The Behind-the-Scenes Story of the 312 Days that Changed America's Politics Forever",
+    "author": "Chris Wallace",
+    "price": 24.50
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063230293_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_50.jpg",
+    "book_name": "Lily's Promise: Holding On to Hope Through Auschwitz and Beyond-A Story for All Generations",
+    "author": "Lily Ebert",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593652985_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_51.jpg",
+    "book_name": "Democracy Awakening: Notes on the State of America",
+    "author": "Heather Cox Richardson",
+    "price": 16.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780199971954_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_52.jpg",
+    "book_name": "The Great War and Modern Memory",
+    "author": "Paul Fussell",
+    "price": 22.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217059942_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_53.jpg",
+    "book_name": "Mark Twain (Signed Book)",
+    "author": "Ron Chernow",
+    "price": 45.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780345544827_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_54.jpg",
+    "book_name": "The Perfect Horse: The Daring U.S. Mission to Rescue the Priceless Stallions Kidnapped by the Nazis",
+    "author": "Elizabeth Letts",
+    "price": 20.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781668027813_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_55.jpg",
+    "book_name": "When the Sea Came Alive: An Oral History of D-Day",
+    "author": "Garrett M. Graff",
+    "price": 32.50
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781668024355_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_56.jpg",
+    "book_name": "Targeted: Beirut: The 1983 Marine Barracks Bombing and the Untold Origin Story of the War on Terror",
+    "author": "Jack Carr",
+    "price": 21.69
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780805094213_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_57.jpg",
+    "book_name": "102 Minutes: The Unforgettable Story of the Fight to Survive Inside the Twin Towers",
+    "author": "Jim Dwyer",
+    "price": 25.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780594262107_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_58.jpg",
+    "book_name": "History of the World Map by Map",
+    "author": "DK",
+    "price": 20.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780807018699_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_59.jpg",
+    "book_name": "Man's Search for Meaning (B&N Exclusive Edition)",
+    "author": "Viktor E. Frankl",
+    "price": 17.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780307742490_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_60.jpg",
+    "book_name": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+    "author": "David Grann",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464216633_p0_v11%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_61.jpg",
+    "book_name": "The Secret History of Bigfoot: Field Notes on a North American Monster",
+    "author": "John O'Connor",
+    "price": 13.49
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250871886_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_62.jpg",
+    "book_name": "Hitler's American Friends: The Third Reich's Supporters in the United States",
+    "author": "Bradley W. Hart",
+    "price": 20.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781451693898_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_63.jpg",
+    "book_name": "Lincoln's Gamble: The Tumultuous Six Months that Gave America the Emancipation Proclamation and Changed the Course of the Civil War",
+    "author": "Todd Brewster",
+    "price": 22.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063420052_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_64.jpg",
+    "book_name": "Black Saturday: An Unfiltered Account of the October 7th Attack on Israel and the War in Gaza",
+    "author": "Trey Yingst",
+    "price": 16.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982108663_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_65.jpg",
+    "book_name": "An Unfinished Love Story: A Personal History of the 1960s",
+    "author": "Doris Kearns Goodwin",
+    "price": 35.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250787651_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_66.jpg",
+    "book_name": "The Hundred Years' War on Palestine: A History of Settler Colonialism and Resistance, 1917-2017",
+    "author": "Rashid Khalidi",
+    "price": 19.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781984880826_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_67.jpg",
+    "book_name": "Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis",
+    "author": "Jonathan Blitzer",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062748218_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_68.jpg",
+    "book_name": "Barracoon: The Story of the Last \"Black Cargo\"",
+    "author": "Zora Neale Hurston",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780143108962_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_69.jpg",
+    "book_name": "The Templars: The Rise and Spectacular Fall of God's Holy Warriors",
+    "author": "Dan Jones",
+    "price": 20.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781635578546_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_70.jpg",
+    "book_name": "Money, Lies, and God: Inside the Movement to Destroy American Democracy",
+    "author": "Katherine Stewart",
+    "price": 29.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781435158696_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_71.jpg",
+    "book_name": "The Art of War (Barnes & Noble Collectible Editions)",
+    "author": "Sun Tzu",
+    "price": 10.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780802163820_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_72.jpg",
+    "book_name": "The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science",
+    "author": "Dava Sobel",
+    "price": 30.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780345376718_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_73.jpg",
+    "book_name": "The Autobiography of Malcolm X",
+    "author": "Malcolm X",
+    "price": 22.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063097698_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_74.jpg",
+    "book_name": "The Happiest Man on Earth: The Beautiful Life of an Auschwitz Survivor",
+    "author": "Eddie Jaku",
+    "price": 18.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780679748403_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_75.jpg",
+    "book_name": "Maus I & II Paperback Box Set",
+    "author": "Art Spiegelman",
+    "price": 28.81
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780525560562_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_76.jpg",
+    "book_name": "Hood Feminism: Notes from the Women That a Movement Forgot",
+    "author": "Mikki Kendall",
+    "price": 16.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982169916_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_77.jpg",
+    "book_name": "The Mysterious Case of Rudolf Diesel: Genius, Power, and Deception on the Eve of World War I",
+    "author": "Douglas Brunt",
+    "price": 16.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780465062881_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_78.jpg",
+    "book_name": "Endurance: Shackleton's Incredible Voyage",
+    "author": "Alfred Lansing",
+    "price": 19.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781504043991_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_79.jpg",
+    "book_name": "Incident at Big Sky: The Inside Story of the Search for Two Savage Killers in Montana",
+    "author": "Johnny France",
+    "price": 0.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780806542706_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_80.jpg",
+    "book_name": "Forged in Hell: The Gripping True Story of the Special Forces Heroes Who Broke the Nazi Stranglehold",
+    "author": "Damien Lewis",
+    "price": 28.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780307742483_p0_v18%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_81.jpg",
+    "book_name": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
+    "author": "David Grann",
+    "price": 17.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063112049_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_82.jpg",
+    "book_name": "By the Fire We Carry: The Generations-Long Fight for Justice on Native Land",
+    "author": "Rebecca Nagle",
+    "price": 32.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250183866_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_83.jpg",
+    "book_name": "Extreme Ownership: How U.S. Navy SEALs Lead and Win (New Edition)",
+    "author": "Jocko Willink",
+    "price": 29.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062869685_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_84.jpg",
+    "book_name": "Alexander at the End of the World: The Forgotten Final Years of Alexander the Great",
+    "author": "Rachel Kousser",
+    "price": 17.50
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063268746_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_85.jpg",
+    "book_name": "White Lies: The Double Life of Walter F. White and America's Darkest Secret",
+    "author": "A. J. Baime",
+    "price": 21.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593476093_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_86.jpg",
+    "book_name": "Nuclear War: A Scenario",
+    "author": "Annie Jacobsen",
+    "price": 30.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316396660_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_87.jpg",
+    "book_name": "The Girl on the Velvet Swing: Sex, Murder, and Madness at the Dawn of the Twentieth Century",
+    "author": "Simon Baatz",
+    "price": 21.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781501154249_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_88.jpg",
+    "book_name": "Washington's End: The Final Years and Forgotten Struggle",
+    "author": "Jonathan Horn",
+    "price": 20.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593230596_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_89.jpg",
+    "book_name": "The 1619 Project: A New Origin Story",
+    "author": "Nikole Hannah-Jones (Created by)",
+    "price": 25.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250037961_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_90.jpg",
+    "book_name": "Final Solution: The Fate of Jews, 1933-1949",
+    "author": "David Cesarani",
+    "price": 1.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593230275_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_91.jpg",
+    "book_name": "Caste: The Origins of Our Discontents",
+    "author": "Isabel Wilkerson",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217086627_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_92.jpg",
+    "book_name": "The Fate of the Day: The War for America, Fort Ticonderoga to Charleston, 1777-1780 (Signed Book)",
+    "author": "Rick Atkinson",
+    "price": 42.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780358439165_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_93.jpg",
+    "book_name": "Black AF History: The Un-Whitewashed Story of America",
+    "author": "Michael Harriot",
+    "price": 32.50
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780345409461_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_94.jpg",
+    "book_name": "The Demon-Haunted World: Science as a Candle in the Dark",
+    "author": "Carl Sagan",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780684848716_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_95.jpg",
+    "book_name": "What Kind of Nation: Thomas Jefferson, John Marshall, and the Epic Struggle to Create a United States",
+    "author": "James F. Simon",
+    "price": 21.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982142995_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_96.jpg",
+    "book_name": "John Lewis: A Life",
+    "author": "David Greenberg",
+    "price": 35.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781501191060_p0_v10%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_97.jpg",
+    "book_name": "Master Slave Husband Wife: An Epic Journey from Slavery to Freedom (Pulitzer Prize Winner)",
+    "author": "Ilyon Woo",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780300276671_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_98.jpg",
+    "book_name": "The Rediscovery of America: Native Peoples and the Unmaking of U.S. History",
+    "author": "Ned Blackhawk",
+    "price": 19.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780312382230_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/classic/book_classic_99.jpg",
+    "book_name": "Desperate Engagement: How a Little-Known Civil War Battle Saved Washington, D.C., and Changed American History",
+    "author": "Marc Leepson",
+    "price": 23.99
+}
 ]

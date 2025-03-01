@@ -1,611 +1,611 @@
-[
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932239_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_0.jpg",
-        "book_name": "Lights Out: An Into Darkness Novel",
-        "author": "Navessa Allen",
-        "price": 16.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063380196_p0_v16%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_2.jpg",
-        "book_name": "Slow Dance: A Novel",
-        "author": "Rainbow Rowell",
-        "price": 28.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932659_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_4.jpg",
-        "book_name": "Scythe & Sparrow (Ruinous Love Trilogy #3)",
-        "author": "Brynne Weaver",
-        "price": 17.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781496746801_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_6.jpg",
-        "book_name": "The Wild Side: A Gripping Novel of Suspense",
-        "author": "Fern Michaels",
-        "price": 28.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250370792_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_8.jpg",
-        "book_name": "Bonded in Death",
-        "author": "J. D. Robb",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464226229_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_9.jpg",
-        "book_name": "Tell Me What You Did: A Novel",
-        "author": "Carter Wilson",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593548189_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_10.jpg",
-        "book_name": "Midnight Black (Gray Man Series #14)",
-        "author": "Mark Greaney",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316403689_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_11.jpg",
-        "book_name": "Paranoia (Michael Bennett Series #17)",
-        "author": "James Patterson",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062343949_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_13.jpg",
-        "book_name": "The Tarnished Lady",
-        "author": "Sandra Hill",
-        "price": 0.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781368098458_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_14.jpg",
-        "book_name": "Wings of Starlight",
-        "author": "Allison Saft",
-        "price": 18.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464242793_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_15.jpg",
-        "book_name": "The Crash (B&N Exclusive Edition)",
-        "author": "Freida McFadden",
-        "price": 16.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781665972925_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_16.jpg",
-        "book_name": "Better Than the Movies (B&N Exclusive Edition)",
-        "author": "Lynn Painter",
-        "price": 12.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638933007_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_17.jpg",
-        "book_name": "Caught Up: Into Darkness Trilogy (B&N Exclusive Edition)",
-        "author": "Navessa Allen",
-        "price": 19.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780008641580_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_19.jpg",
-        "book_name": "The Cinnamon Bun Book Store (Dream Harbor, Book 2)",
-        "author": "Laurie Gilmore",
-        "price": 15.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781488052538_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_20.jpg",
-        "book_name": "The Wedding Challenge",
-        "author": "Candace Camp",
-        "price": 0.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781454956891_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_21.jpg",
-        "book_name": "Greatest Hits (B&N Exclusive Edition)",
-        "author": "Harlan Ellison",
-        "price": 14.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781496742599_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_23.jpg",
-        "book_name": "Murder Takes the Stage",
-        "author": "Colleen Cambridge",
-        "price": 27.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781451673319_p0_v13%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_24.jpg",
-        "book_name": "Fahrenheit 451: A Novel",
-        "author": "Ray Bradbury",
-        "price": 17.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781492666936_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_25.jpg",
-        "book_name": "Lady Clementine",
-        "author": "Marie Benedict",
-        "price": 16.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062422385_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_27.jpg",
-        "book_name": "Mackenzie's Mountain (Mackenzie Family Saga #1)",
-        "author": "Linda Howard",
-        "price": 1.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781496737618_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_28.jpg",
-        "book_name": "Breakneck (Arliss Cutter Series #5)",
-        "author": "Marc Cameron",
-        "price": 27.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538774199_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_30.jpg",
-        "book_name": "Quicksilver",
-        "author": "Callie Hart",
-        "price": 18.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781546154419_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_31.jpg",
-        "book_name": "Harry Potter and the Goblet of Fire: Interactive Illustrated Edition (Harry Potter Series #4)",
-        "author": "J. K. Rowling",
-        "price": 39.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217059485_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_32.jpg",
-        "book_name": "We All Live Here: A Novel (Signed B&N Exclusive Edition)",
-        "author": "Jojo Moyes",
-        "price": 30.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385490818_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_33.jpg",
-        "book_name": "The Handmaid's Tale",
-        "author": "Margaret Atwood",
-        "price": 18.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780312335786_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_34.jpg",
-        "book_name": "Fade",
-        "author": "Kyle Mills",
-        "price": 22.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385550369_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_35.jpg",
-        "book_name": "James (2024 B&N Book of the Year) (National Book Award Winner)",
-        "author": "Percival Everett",
-        "price": 24.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538742570_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_36.jpg",
-        "book_name": "The Housemaid",
-        "author": "Freida McFadden",
-        "price": 12.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781419756399_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_37.jpg",
-        "book_name": "Bullet Train: A Novel",
-        "author": "Kotaro Isaka",
-        "price": 17.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781945492600_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_38.jpg",
-        "book_name": "I Who Have Never Known Men",
-        "author": "Jacqueline Harpman",
-        "price": 14.95
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593803486_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_40.jpg",
-        "book_name": "Three Days in June: A Novel",
-        "author": "Anne Tyler",
-        "price": 24.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780451526342_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_41.jpg",
-        "book_name": "Animal Farm",
-        "author": "George Orwell",
-        "price": 9.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798400902550_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_42.jpg",
-        "book_name": "Solo Leveling, Vol. 11 (comic)",
-        "author": "h-goon (Adapted by)",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063410879_p0_v11%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_43.jpg",
-        "book_name": "Gate to Kagoshima: A Novel",
-        "author": "Poppy Kuroki",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780060829834_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_44.jpg",
-        "book_name": "The Wrong Hostage (St. Kilda Series #1)",
-        "author": "Elizabeth Lowell",
-        "price": 9.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250080400_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_45.jpg",
-        "book_name": "The Nightingale",
-        "author": "Kristin Hannah",
-        "price": 14.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932468_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_46.jpg",
-        "book_name": "Haunting Adeline",
-        "author": "H. D. Carlton",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385550666_p0_v10%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_47.jpg",
-        "book_name": "Dream State (Oprah's Book Club)",
-        "author": "Eric Puchner",
-        "price": 25.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781635575569_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_48.jpg",
-        "book_name": "A Court of Thorns and Roses (A Court of Thorns and Roses Series #1)",
-        "author": "Sarah J. Maas",
-        "price": 17.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780452262935_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_49.jpg",
-        "book_name": "1984",
-        "author": "George Orwell",
-        "price": 19.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593497692_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_50.jpg",
-        "book_name": "Open Season (Alex Delaware Series #40)",
-        "author": "Jonathan Kellerman",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781613165904_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_51.jpg",
-        "book_name": "The Door",
-        "author": "Mary Roberts Rinehart",
-        "price": 15.95
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781617738364_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_52.jpg",
-        "book_name": "A Pinch of Poison (Lady and Lady's Maid Series #2)",
-        "author": "Alyssa Maxwell",
-        "price": 18.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780358525905_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_53.jpg",
-        "book_name": "Best American Mystery And Suspense 2021",
-        "author": "Steph Cha",
-        "price": 0.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538732182_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_54.jpg",
-        "book_name": "Parable of the Sower",
-        "author": "Octavia E. Butler",
-        "price": 16.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593312070_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_55.jpg",
-        "book_name": "The Frozen River (GMA Book Club Pick)",
-        "author": "Ariel Lawhon",
-        "price": 16.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538770566_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_56.jpg",
-        "book_name": "The Medici Return (Cotton Malone Series #19)",
-        "author": "Steve Berry",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316566315_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_57.jpg",
-        "book_name": "The Quiet Librarian: A Novel",
-        "author": "Allen Eskens",
-        "price": 26.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940184539102_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_58.jpg",
-        "book_name": "Nothing Breaks Like A Heart (A Riveting Psychological Thriller)",
-        "author": "Barbara Freethy",
-        "price": 9.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780451524935_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_59.jpg",
-        "book_name": "1984: 75th Anniversary",
-        "author": "George Orwell",
-        "price": 10.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781488019319_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_60.jpg",
-        "book_name": "Fatal Cover-Up",
-        "author": "Lisa Harris",
-        "price": 0.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781546171904_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_61.jpg",
-        "book_name": "Hunger Games 4-Book Paperback Boxed Set Deluxe Edition (The Hunger Games, Catching Fire, Mockingjay, The Ballad of Songbirds and Snakes)",
-        "author": "Suzanne Collins",
-        "price": 55.96
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932475_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_62.jpg",
-        "book_name": "Hunting Adeline",
-        "author": "H. D. Carlton",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250178633_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_63.jpg",
-        "book_name": "The Women: A Novel",
-        "author": "Kristin Hannah",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780060850524_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_64.jpg",
-        "book_name": "Brave New World",
-        "author": "Aldous Huxley",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593641194_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_65.jpg",
-        "book_name": "First-Time Caller",
-        "author": "B.K. Borison",
-        "price": 17.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780008239053_p0_v9%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_66.jpg",
-        "book_name": "One in a Million",
-        "author": "Lindsey Kelk",
-        "price": 0.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063010932_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_67.jpg",
-        "book_name": "Pay Dirt (V. I. Warshawski Series #22)",
-        "author": "Sara Paretsky",
-        "price": 30.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316312486_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_68.jpg",
-        "book_name": "One Dark Window",
-        "author": "Rachel Gillig",
-        "price": 18.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062415943_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_69.jpg",
-        "book_name": "Under the Table: A Novel",
-        "author": "Stephanie Evanovich",
-        "price": 18.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940185576915_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_71.jpg",
-        "book_name": "The Fallen Governess",
-        "author": "Laura A. Barnes",
-        "price": 0.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593725801_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_72.jpg",
-        "book_name": "In Too Deep: A Reacher Novel",
-        "author": "Lee Child",
-        "price": 21.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063451827_p0_v11%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_73.jpg",
-        "book_name": "The Rose Bargain (Barnes & Noble YA Book Club Edition)",
-        "author": "Sasha Peyton Smith",
-        "price": 16.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316595162_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_74.jpg",
-        "book_name": "Nightshade (Signed Book)",
-        "author": "Michael Connelly",
-        "price": 30.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798855412598_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_75.jpg",
-        "book_name": "The Guy She Was Interested In Wasn't a Guy at All, Vol. 2",
-        "author": "Sumiko Arai",
-        "price": 20.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593500224_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_76.jpg",
-        "book_name": "Emily Wilde's Compendium of Lost Tales (Emily Wilde Series #3)",
-        "author": "Heather Fawcett",
-        "price": 26.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781728296326_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_77.jpg",
-        "book_name": "A Perfect Story",
-        "author": "Elísabet Benavent",
-        "price": 16.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638931737_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_78.jpg",
-        "book_name": "Butcher & Blackbird (Ruinous Love Trilogy #1)",
-        "author": "Brynne Weaver",
-        "price": 18.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538769256_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_79.jpg",
-        "book_name": "Phantasma",
-        "author": "Kaylie Smith",
-        "price": 18.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780452284241_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_80.jpg",
-        "book_name": "Animal Farm: 75th Anniversary Edition",
-        "author": "George Orwell",
-        "price": 16.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781595549976_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_81.jpg",
-        "book_name": "Hope Springs",
-        "author": "Kim Cash Tate",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781368104807_p0_v26%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_82.jpg",
-        "book_name": "The Book of Bill (B&N Exclusive Edition)",
-        "author": "Alex Hirsch",
-        "price": 21.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781504046060_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_83.jpg",
-        "book_name": "Three Powerful Science Fiction Classics: The Lovers, Dark Is the Sun, and Riders of the Purple Wage",
-        "author": "Philip José Farmer",
-        "price": 2.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538774229_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_85.jpg",
-        "book_name": "Brimstone (Deluxe Limited Edition)",
-        "author": "Callie Hart",
-        "price": 30.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932512_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_86.jpg",
-        "book_name": "Shallow River",
-        "author": "H. D. Carlton",
-        "price": 17.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780061080630_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_87.jpg",
-        "book_name": "Morning Comes Softly",
-        "author": "Debbie Macomber",
-        "price": 8.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781916926257_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_88.jpg",
-        "book_name": "Zodiac Academy 1: The Awakening",
-        "author": "Caroline Peckham",
-        "price": 20.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781402217098_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_89.jpg",
-        "book_name": "My Cousin Rachel",
-        "author": "Daphne du Maurier",
-        "price": 18.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781974752720_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_90.jpg",
-        "book_name": "Kaiju No. 8, Vol. 12",
-        "author": "Naoya Matsumoto",
-        "price": 11.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780061711299_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_91.jpg",
-        "book_name": "The Prime of Miss Jean Brodie: A Novel",
-        "author": "Muriel Spark",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217048588_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_92.jpg",
-        "book_name": "This Is a Love Story (Barnes & Noble Book Club Edition)",
-        "author": "Jessica Soffer",
-        "price": 26.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217047253_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_93.jpg",
-        "book_name": "Battle Mountain (B&N Exclusive Edition)",
-        "author": "C. J. Box",
-        "price": 22.40
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538771983_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_94.jpg",
-        "book_name": "To Die For",
-        "author": "David Baldacci",
-        "price": 30.00
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798212911221_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_95.jpg",
-        "book_name": "Home Is Where the Bodies Are (B&N Exclusive Edition)",
-        "author": "Jeneva Rose",
-        "price": 13.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538751466_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_97.jpg",
-        "book_name": "Patternmaster",
-        "author": "Octavia E. Butler",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781402241376_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_98.jpg",
-        "book_name": "The Winter Sea",
-        "author": "Susanna Kearsley",
-        "price": 17.99
-    },
-    {
-        "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780345539809_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-        "image_path": "books/fiction/book_fiction_99.jpg",
-        "book_name": "Red Rising (Red Rising Series #1)",
-        "author": "Pierce Brown",
-        "price": 16.00
-    }
+[{
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932239_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_0.jpg",
+    "book_name": "Lights Out: An Into Darkness Novel",
+    "author": "Navessa Allen",
+    "price": 16.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063380196_p0_v16%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_2.jpg",
+    "book_name": "Slow Dance: A Novel",
+    "author": "Rainbow Rowell",
+    "price": 28.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932659_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_4.jpg",
+    "book_name": "Scythe & Sparrow (Ruinous Love Trilogy #3)",
+    "author": "Brynne Weaver",
+    "price": 17.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781496746801_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_6.jpg",
+    "book_name": "The Wild Side: A Gripping Novel of Suspense",
+    "author": "Fern Michaels",
+    "price": 28.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250370792_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_8.jpg",
+    "book_name": "Bonded in Death",
+    "author": "J. D. Robb",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464226229_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_9.jpg",
+    "book_name": "Tell Me What You Did: A Novel",
+    "author": "Carter Wilson",
+    "price": 17.99
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593548189_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_10.jpg",
+    "book_name": "Midnight Black (Gray Man Series #14)",
+    "author": "Mark Greaney",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316403689_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_11.jpg",
+    "book_name": "Paranoia (Michael Bennett Series #17)",
+    "author": "James Patterson",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062343949_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_13.jpg",
+    "book_name": "The Tarnished Lady",
+    "author": "Sandra Hill",
+    "price": 0.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781368098458_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_14.jpg",
+    "book_name": "Wings of Starlight",
+    "author": "Allison Saft",
+    "price": 18.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781464242793_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_15.jpg",
+    "book_name": "The Crash (B&N Exclusive Edition)",
+    "author": "Freida McFadden",
+    "price": 16.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781665972925_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_16.jpg",
+    "book_name": "Better Than the Movies (B&N Exclusive Edition)",
+    "author": "Lynn Painter",
+    "price": 12.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638933007_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_17.jpg",
+    "book_name": "Caught Up: Into Darkness Trilogy (B&N Exclusive Edition)",
+    "author": "Navessa Allen",
+    "price": 19.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780008641580_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_19.jpg",
+    "book_name": "The Cinnamon Bun Book Store (Dream Harbor, Book 2)",
+    "author": "Laurie Gilmore",
+    "price": 15.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781488052538_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_20.jpg",
+    "book_name": "The Wedding Challenge",
+    "author": "Candace Camp",
+    "price": 0.99
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781454956891_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_21.jpg",
+    "book_name": "Greatest Hits (B&N Exclusive Edition)",
+    "author": "Harlan Ellison",
+    "price": 14.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781496742599_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_23.jpg",
+    "book_name": "Murder Takes the Stage",
+    "author": "Colleen Cambridge",
+    "price": 27.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781451673319_p0_v13%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_24.jpg",
+    "book_name": "Fahrenheit 451: A Novel",
+    "author": "Ray Bradbury",
+    "price": 17.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781492666936_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_25.jpg",
+    "book_name": "Lady Clementine",
+    "author": "Marie Benedict",
+    "price": 16.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062422385_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_27.jpg",
+    "book_name": "Mackenzie's Mountain (Mackenzie Family Saga #1)",
+    "author": "Linda Howard",
+    "price": 1.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781496737618_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_28.jpg",
+    "book_name": "Breakneck (Arliss Cutter Series #5)",
+    "author": "Marc Cameron",
+    "price": 27.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538774199_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_30.jpg",
+    "book_name": "Quicksilver",
+    "author": "Callie Hart",
+    "price": 18.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781546154419_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_31.jpg",
+    "book_name": "Harry Potter and the Goblet of Fire: Interactive Illustrated Edition (Harry Potter Series #4)",
+    "author": "J. K. Rowling",
+    "price": 39.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217059485_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_32.jpg",
+    "book_name": "We All Live Here: A Novel (Signed B&N Exclusive Edition)",
+    "author": "Jojo Moyes",
+    "price": 30.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385490818_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_33.jpg",
+    "book_name": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "price": 18.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780312335786_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_34.jpg",
+    "book_name": "Fade",
+    "author": "Kyle Mills",
+    "price": 22.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385550369_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_35.jpg",
+    "book_name": "James (2024 B&N Book of the Year) (National Book Award Winner)",
+    "author": "Percival Everett",
+    "price": 24.99
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538742570_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_36.jpg",
+    "book_name": "The Housemaid",
+    "author": "Freida McFadden",
+    "price": 12.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781419756399_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_37.jpg",
+    "book_name": "Bullet Train: A Novel",
+    "author": "Kotaro Isaka",
+    "price": 17.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781945492600_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_38.jpg",
+    "book_name": "I Who Have Never Known Men",
+    "author": "Jacqueline Harpman",
+    "price": 14.95
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593803486_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_40.jpg",
+    "book_name": "Three Days in June: A Novel",
+    "author": "Anne Tyler",
+    "price": 24.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780451526342_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_41.jpg",
+    "book_name": "Animal Farm",
+    "author": "George Orwell",
+    "price": 9.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798400902550_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_42.jpg",
+    "book_name": "Solo Leveling, Vol. 11 (comic)",
+    "author": "h-goon (Adapted by)",
+    "price": 20.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063410879_p0_v11%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_43.jpg",
+    "book_name": "Gate to Kagoshima: A Novel",
+    "author": "Poppy Kuroki",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780060829834_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_44.jpg",
+    "book_name": "The Wrong Hostage (St. Kilda Series #1)",
+    "author": "Elizabeth Lowell",
+    "price": 9.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250080400_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_45.jpg",
+    "book_name": "The Nightingale",
+    "author": "Kristin Hannah",
+    "price": 14.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932468_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_46.jpg",
+    "book_name": "Haunting Adeline",
+    "author": "H. D. Carlton",
+    "price": 20.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385550666_p0_v10%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_47.jpg",
+    "book_name": "Dream State (Oprah's Book Club)",
+    "author": "Eric Puchner",
+    "price": 25.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781635575569_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_48.jpg",
+    "book_name": "A Court of Thorns and Roses (A Court of Thorns and Roses Series #1)",
+    "author": "Sarah J. Maas",
+    "price": 17.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780452262935_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_49.jpg",
+    "book_name": "1984",
+    "author": "George Orwell",
+    "price": 19.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593497692_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_50.jpg",
+    "book_name": "Open Season (Alex Delaware Series #40)",
+    "author": "Jonathan Kellerman",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781613165904_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_51.jpg",
+    "book_name": "The Door",
+    "author": "Mary Roberts Rinehart",
+    "price": 15.95
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781617738364_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_52.jpg",
+    "book_name": "A Pinch of Poison (Lady and Lady's Maid Series #2)",
+    "author": "Alyssa Maxwell",
+    "price": 18.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780358525905_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_53.jpg",
+    "book_name": "Best American Mystery And Suspense 2021",
+    "author": "Steph Cha",
+    "price": 0.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538732182_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_54.jpg",
+    "book_name": "Parable of the Sower",
+    "author": "Octavia E. Butler",
+    "price": 16.99
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593312070_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_55.jpg",
+    "book_name": "The Frozen River (GMA Book Club Pick)",
+    "author": "Ariel Lawhon",
+    "price": 16.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538770566_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_56.jpg",
+    "book_name": "The Medici Return (Cotton Malone Series #19)",
+    "author": "Steve Berry",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316566315_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_57.jpg",
+    "book_name": "The Quiet Librarian: A Novel",
+    "author": "Allen Eskens",
+    "price": 26.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940184539102_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_58.jpg",
+    "book_name": "Nothing Breaks Like A Heart (A Riveting Psychological Thriller)",
+    "author": "Barbara Freethy",
+    "price": 9.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780451524935_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_59.jpg",
+    "book_name": "1984: 75th Anniversary",
+    "author": "George Orwell",
+    "price": 10.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781488019319_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_60.jpg",
+    "book_name": "Fatal Cover-Up",
+    "author": "Lisa Harris",
+    "price": 0.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781546171904_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_61.jpg",
+    "book_name": "Hunger Games 4-Book Paperback Boxed Set Deluxe Edition (The Hunger Games, Catching Fire, Mockingjay, The Ballad of Songbirds and Snakes)",
+    "author": "Suzanne Collins",
+    "price": 55.96
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932475_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_62.jpg",
+    "book_name": "Hunting Adeline",
+    "author": "H. D. Carlton",
+    "price": 20.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250178633_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_63.jpg",
+    "book_name": "The Women: A Novel",
+    "author": "Kristin Hannah",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780060850524_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_64.jpg",
+    "book_name": "Brave New World",
+    "author": "Aldous Huxley",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593641194_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_65.jpg",
+    "book_name": "First-Time Caller",
+    "author": "B.K. Borison",
+    "price": 17.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780008239053_p0_v9%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_66.jpg",
+    "book_name": "One in a Million",
+    "author": "Lindsey Kelk",
+    "price": 0.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063010932_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_67.jpg",
+    "book_name": "Pay Dirt (V. I. Warshawski Series #22)",
+    "author": "Sara Paretsky",
+    "price": 30.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316312486_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_68.jpg",
+    "book_name": "One Dark Window",
+    "author": "Rachel Gillig",
+    "price": 18.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062415943_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_69.jpg",
+    "book_name": "Under the Table: A Novel",
+    "author": "Stephanie Evanovich",
+    "price": 18.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/2940185576915_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_71.jpg",
+    "book_name": "The Fallen Governess",
+    "author": "Laura A. Barnes",
+    "price": 0.99
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593725801_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_72.jpg",
+    "book_name": "In Too Deep: A Reacher Novel",
+    "author": "Lee Child",
+    "price": 21.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063451827_p0_v11%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_73.jpg",
+    "book_name": "The Rose Bargain (Barnes & Noble YA Book Club Edition)",
+    "author": "Sasha Peyton Smith",
+    "price": 16.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316595162_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_74.jpg",
+    "book_name": "Nightshade (Signed Book)",
+    "author": "Michael Connelly",
+    "price": 30.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798855412598_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_75.jpg",
+    "book_name": "The Guy She Was Interested In Wasn't a Guy at All, Vol. 2",
+    "author": "Sumiko Arai",
+    "price": 20.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593500224_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_76.jpg",
+    "book_name": "Emily Wilde's Compendium of Lost Tales (Emily Wilde Series #3)",
+    "author": "Heather Fawcett",
+    "price": 26.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781728296326_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_77.jpg",
+    "book_name": "A Perfect Story",
+    "author": "Elísabet Benavent",
+    "price": 16.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638931737_p0_v8%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_78.jpg",
+    "book_name": "Butcher & Blackbird (Ruinous Love Trilogy #1)",
+    "author": "Brynne Weaver",
+    "price": 18.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538769256_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_79.jpg",
+    "book_name": "Phantasma",
+    "author": "Kaylie Smith",
+    "price": 18.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780452284241_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_80.jpg",
+    "book_name": "Animal Farm: 75th Anniversary Edition",
+    "author": "George Orwell",
+    "price": 16.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781595549976_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_81.jpg",
+    "book_name": "Hope Springs",
+    "author": "Kim Cash Tate",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781368104807_p0_v26%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_82.jpg",
+    "book_name": "The Book of Bill (B&N Exclusive Edition)",
+    "author": "Alex Hirsch",
+    "price": 21.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781504046060_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_83.jpg",
+    "book_name": "Three Powerful Science Fiction Classics: The Lovers, Dark Is the Sun, and Riders of the Purple Wage",
+    "author": "Philip José Farmer",
+    "price": 2.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538774229_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_85.jpg",
+    "book_name": "Brimstone (Deluxe Limited Edition)",
+    "author": "Callie Hart",
+    "price": 30.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781638932512_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_86.jpg",
+    "book_name": "Shallow River",
+    "author": "H. D. Carlton",
+    "price": 17.00
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780061080630_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_87.jpg",
+    "book_name": "Morning Comes Softly",
+    "author": "Debbie Macomber",
+    "price": 8.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781916926257_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_88.jpg",
+    "book_name": "Zodiac Academy 1: The Awakening",
+    "author": "Caroline Peckham",
+    "price": 20.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781402217098_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_89.jpg",
+    "book_name": "My Cousin Rachel",
+    "author": "Daphne du Maurier",
+    "price": 18.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781974752720_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_90.jpg",
+    "book_name": "Kaiju No. 8, Vol. 12",
+    "author": "Naoya Matsumoto",
+    "price": 11.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780061711299_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_91.jpg",
+    "book_name": "The Prime of Miss Jean Brodie: A Novel",
+    "author": "Muriel Spark",
+    "price": 17.99
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217048588_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_92.jpg",
+    "book_name": "This Is a Love Story (Barnes & Noble Book Club Edition)",
+    "author": "Jessica Soffer",
+    "price": 26.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798217047253_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_93.jpg",
+    "book_name": "Battle Mountain (B&N Exclusive Edition)",
+    "author": "C. J. Box",
+    "price": 22.40
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538771983_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_94.jpg",
+    "book_name": "To Die For",
+    "author": "David Baldacci",
+    "price": 30.00
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9798212911221_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_95.jpg",
+    "book_name": "Home Is Where the Bodies Are (B&N Exclusive Edition)",
+    "author": "Jeneva Rose",
+    "price": 13.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538751466_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_97.jpg",
+    "book_name": "Patternmaster",
+    "author": "Octavia E. Butler",
+    "price": 17.99
+}, {
+    "is_public": true,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781402241376_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_98.jpg",
+    "book_name": "The Winter Sea",
+    "author": "Susanna Kearsley",
+    "price": 17.99
+}, {
+    "is_public": false,
+    "image_url": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780345539809_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "image_path": "books/fiction/book_fiction_99.jpg",
+    "book_name": "Red Rising (Red Rising Series #1)",
+    "author": "Pierce Brown",
+    "price": 16.00
+}
 ]

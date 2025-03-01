@@ -16,8 +16,8 @@
 @media (prefers-reduced-motion: no-preference) {
     .grid_item {
         opacity: 0;
-        -webkit-animation: fading ease-in 0.5s;
-        animation: fading ease-in 0.5s;
+        -webkit-animation: fading ease-in 0.2s;
+        animation: fading ease-in 0.2s;
         -webkit-animation-fill-mode: forwards;
         animation-fill-mode: forwards;
     }
@@ -103,6 +103,14 @@
 .add-cart-button:active {
     transform: scale(0.96);
     box-shadow: inset 0 0 0 3px var(--primary-color-light);
+}
+
+.read-now {
+    margin: 20px;
+    width: 60%;
+    position: absolute;
+    bottom: 40%;
+    left: 10%;
 }
 
 @keyframes slideInFromLeft {

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../assets/style/global.css'
-import '../assets/style/category.css'
+import '../assets/style/category/category.css'
 import {useNavigate, useSearchParams} from "react-router-dom";
 import {CATEGORY_TYPE, CategoryType, VALID_CATEGORIES} from '../data/models/categoryType';
 import Rating from "../components/rating";
@@ -8,6 +8,7 @@ import {GetRandomNumber} from "../utils/MathUtils";
 import LoadingSpinner from "../components/LoadingSpinner"; // You'll need to create this component
 
 interface Book {
+    is_public: boolean;
     image_url: string;
     image_path: string;
     book_name: string;
@@ -100,6 +101,7 @@ function Category() {
                             <div className="cat-book-cover">
                                 <img src={`/${book.image_path}`} width="100%" height="100%" alt='book_image'></img>
                                 <p>$ {book.price.toFixed(2)}</p>
+                                {book.is_public ? <button className="add-cart-button read-now">Read Now</button> : <></> }
                             </div>
                             <p className="home-book-title">{book.book_name}</p>
                             <div className="container-row">
