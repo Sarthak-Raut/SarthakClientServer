@@ -14,9 +14,9 @@
 
 .featured-books-container {
     display: flex;
-    height: 42vh;
+    height: 35vh;
     width: 100%;
-    margin: 0 auto;
+    margin-top:20px;
 }
 
 .featured-books-scroller {
@@ -25,7 +25,6 @@
     overflow-y: auto;
     scroll-snap-type: y mandatory;
     scrollbar-width: none;
-    mask: linear-gradient(180deg,#0000,#000 2% 90%,#0000);
 }
 
 .featured-books-scroller::-webkit-scrollbar {
@@ -38,18 +37,18 @@
     gap: 0 25px;
     align-content: center;
     justify-content: center;
-
+    scroll-snap-align: start;
 }
 
 .book-box {
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    aspect-ratio: 6 / 11;
-    padding: 20px 0 20px 0;
+    aspect-ratio: 6 / 10;
     align-items: center;
     min-height: 300px;
     min-width: 150px;
+    padding: 5px 0 0;
 }
 
 .book-box:hover {
@@ -100,18 +99,18 @@
 }
 
 .dot {
-    width: 10px;
-    height: 10px;
+    width: 9px;
+    height: 9px;
     border-radius: 50%;
     background-color: var(--secondary-color);
-    margin: 6px 0;
+    margin: 5px 0;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 
 .dot.active {
     background-color: var(--primary-color);
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 
 @media (max-width: 768px) {
@@ -122,7 +121,7 @@
 }
 
 .home-fea-title {
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     color: #885265;
     font-weight: bold;
     text-overflow: ellipsis;
@@ -132,10 +131,97 @@
 }
 
 .home-fea-sub {
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     color: #885265;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space:nowrap;
     width: 80%;
+}
+
+.featured-grid-top {
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.featured-grid-out {
+    display: grid;
+    grid-template-columns: 10fr 60px;
+    place-items: center;
+}
+
+.featured-grid-container {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: repeat( auto-fit,1fr);
+    gap: 11.8vh;
+    overflow-x: auto;
+    align-items: center;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding: 0 2px 2px;
+    scroll-snap-type: x mandatory;
+}
+
+.featured-grid-item {
+    aspect-ratio: 6 / 10;
+    width: auto;
+    height: 33vh;
+    display: flex;
+    min-width: 150px;
+    max-width: 200px;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    scroll-snap-align: start;
+}
+
+.home-book-category {
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    margin: 0 0 0 2px;
+    padding: 0 0 0 0;
+}
+
+.home-book-small {
+    font-size: 1rem;
+    color: var(--primary-color);
+    margin: 0;
+    text-decoration: underline;
+    padding: 0 60px 0 0;
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+
+}
+
+.home-book-small:active {
+    scale: 0.9;
+}
+
+.featured-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: end;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.featured-book-cover {
+    width: 100%;
+    height: 70%;
+    position: relative;
+    box-shadow: 1px 1px 12px var(--primary-color);
+    cursor: pointer;
+}
+
+.featured-book-cover:hover {
+    transform: scale(1.02);
+    transition: all 0.5s;
+    box-shadow: 0.5rem 0.5rem 1rem var(--primary-color);
 }

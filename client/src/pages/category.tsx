@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import '../assets/style/global.css'
 import '../assets/style/category/category.css'
-import {useNavigate, useSearchParams} from "react-router-dom";
+import {useNavigate, useParams, useSearchParams} from "react-router-dom";
 import {CATEGORY_TYPE, CategoryType, VALID_CATEGORIES} from '../data/models/categoryType';
 import Rating from "../components/rating";
 import {GetRandomNumber} from "../utils/MathUtils";
@@ -18,8 +18,8 @@ interface Book {
 
 function Category() {
 
-    const [searchParams] = useSearchParams();
-    const type: CategoryType = VALID_CATEGORIES[searchParams.get("type") as CategoryType] || CATEGORY_TYPE.ALL;
+    const { category_type } = useParams<{ category_type: CategoryType }>();
+    const type: CategoryType = VALID_CATEGORIES[category_type as CategoryType] || CATEGORY_TYPE.ALL;
     const navigate = useNavigate();
 
     const [books, setBooks] = useState<Book[]>([]);
@@ -53,8 +53,6 @@ function Category() {
                     break;
             }
 
-            await new Promise(resolve => setTimeout(resolve, 200));
-
             setBooks(selectedBooks.default);
         } catch (error) {
             console.error("Error loading books:", error);
@@ -76,7 +74,7 @@ function Category() {
                     <div className="container" key={key}>
                         <button
                             className={`category-button ${type === value ? "active" : ""}`}
-                            onClick={() => navigate(`?type=${value}`)}
+                            onClick={() => navigate(`/categories/${value}`)}
                         >
                             {key.charAt(0).toUpperCase() + key.slice(1).toLowerCase()}
                         </button>
@@ -99,7 +97,7 @@ function Category() {
                             style={{ animationDelay: `${index * 0.03}s` }}
                         >
                             <div className="cat-book-cover">
-                                <img src={`/${book.image_path}`} width="100%" height="100%" alt='book_image'></img>
+                                <img src={`/SarthakBookstoreReact/${book.image_path}`} width="100%" height="100%" alt='book_image'></img>
                                 <p>$ {book.price.toFixed(2)}</p>
                                 {book.is_public ? <button className="add-cart-button read-now">Read Now</button> : <></> }
                             </div>

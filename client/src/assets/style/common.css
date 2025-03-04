@@ -85,6 +85,10 @@
     justify-items: center;
 }
 
+.space-between-row {
+    justify-content: space-between;
+}
+
 .spinner {
     border: 4px solid var(--primary-color);
     width: 34px;

@@ -9,7 +9,7 @@ import Home from "./pages/home";
 function App() {
   return (
       <div className="flex-container">
-          <BrowserRouter>
+          <BrowserRouter basename={`/SarthakBookstoreReact`}>
                   <AppHeader/>
               <div className="fill-me">
               <Routes>
@@ -18,7 +18,7 @@ function App() {
                           element={<Home/>}
                       />
                       <Route
-                          path="/categories"
+                          path="/categories/:category_type?"
                           element={<Category />}
                       />
                       <Route

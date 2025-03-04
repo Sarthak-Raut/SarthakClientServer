@@ -22,7 +22,8 @@ const HeaderDropdown: React.FC<HeaderDropdownButtonProps> = ({ name, isSelected 
                 </button>
                 <div className="dropdown-content">
                     {Object.entries(CATEGORY_TYPE).map(([key, value]) => (
-                        <Link key={key} to={`/categories?type=${value}`}>
+                        // <Link key={key} to={`/categories?type=${value}`}>
+                        <Link key={key} to={`/categories/${value}`}>
                             {key.charAt(0).toUpperCase() + key.slice(1).toLowerCase()}
                         </Link>
                     ))}

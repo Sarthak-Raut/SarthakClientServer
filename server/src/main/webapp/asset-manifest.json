@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/SarthakBookstoreReact/static/css/main.810f293a.css",
+    "main.js": "/SarthakBookstoreReact/static/js/main.c98b3691.js",
+    "static/js/938.081544cf.chunk.js": "/SarthakBookstoreReact/static/js/938.081544cf.chunk.js",
+    "static/js/539.93ca045b.chunk.js": "/SarthakBookstoreReact/static/js/539.93ca045b.chunk.js",
+    "static/js/479.bd7bd0ad.chunk.js": "/SarthakBookstoreReact/static/js/479.bd7bd0ad.chunk.js",
+    "static/js/453.419a5d54.chunk.js": "/SarthakBookstoreReact/static/js/453.419a5d54.chunk.js",
+    "static/media/Background.svg": "/SarthakBookstoreReact/static/media/Background.8321893135ed70deb07367b2c662f4bb.svg",
+    "static/media/background_tree.svg": "/SarthakBookstoreReact/static/media/background_tree.459b0ffbb3547602be87b806ca2132b7.svg",
+    "static/media/cart.svg": "/SarthakBookstoreReact/static/media/cart.7675d96e00a7eea3acb9b910b9111c35.svg",
+    "static/media/star_full.svg": "/SarthakBookstoreReact/static/media/star_full.1ef45d0094f7afae3610b1e07ab6e86c.svg",
+    "static/media/star_half.svg": "/SarthakBookstoreReact/static/media/star_half.869196bf62c266032ce86782d744e2d1.svg",
+    "static/media/instagram.svg": "/SarthakBookstoreReact/static/media/instagram.dbed0efb2326a945e30385b9208ecd23.svg",
+    "index.html": "/SarthakBookstoreReact/index.html",
+    "static/media/twitter.svg": "/SarthakBookstoreReact/static/media/twitter.5b0ea7495b4c08d1801ab5dbd55337ba.svg",
+    "static/media/facebook.svg": "/SarthakBookstoreReact/static/media/facebook.c74a1f5cede72fc15b6095c7a0d81d57.svg",
+    "static/media/search.svg": "/SarthakBookstoreReact/static/media/search.f7b38aa14e66c15fa856c058115c6a3d.svg",
+    "static/media/logout.svg": "/SarthakBookstoreReact/static/media/logout.8a5fc06010c66ff22a46bb5431558ec8.svg",
+    "static/media/right_arrow.svg": "/SarthakBookstoreReact/static/media/right_arrow.7f029e4b03b71753ffcd5ec949d1ca81.svg",
+    "static/media/arrow-down.svg": "/SarthakBookstoreReact/static/media/arrow-down.c0b26cac8d49be11f4f3f78aadc2470e.svg",
+    "main.810f293a.css.map": "/SarthakBookstoreReact/static/css/main.810f293a.css.map",
+    "main.c98b3691.js.map": "/SarthakBookstoreReact/static/js/main.c98b3691.js.map",
+    "453.419a5d54.chunk.js.map": "/SarthakBookstoreReact/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.810f293a.css",
+    "static/js/main.c98b3691.js"
+  ]
+}
